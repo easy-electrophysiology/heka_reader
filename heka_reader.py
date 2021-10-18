@@ -17,6 +17,12 @@ Brief example::
     # Load data for this trace
     data = bundle.data[group_id, series_id, sweep_ind, trace_ind]
 
+TODO 18/10/2021
+
+
+
+
+
 """
 
 import numpy as np
